@@ -1,5 +1,5 @@
 {
-  "name": "sveltekit-autoimport",
+  "name": "@latitude-data/sveltekit-autoimport",
   "version": "1.7.1",
   "description": "Automatically detect and import components or modules",
   "main": "src/index.js",
@@ -27,7 +27,7 @@
     "magic-string": "^0.26.1"
   },
   "peerDependencies": {
-    "@sveltejs/kit": "^1.0.0-next.0"
+    "@sveltejs/kit": ">=1.0.0"
   },
   "devDependencies": {
     "jest": "^27.5.1"
